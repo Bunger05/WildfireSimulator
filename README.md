@@ -4,20 +4,20 @@ To download project:
 2. Ensure your Unreal Engine is configured to 5.7 or 5.7.4 (which ever you get to work)
 3. If there is a plugin issue, go into the plugins folder and move GaeaUnrealTools out of the project. Place it in a separate folder outside the project or delete it.
 4. You should be able to click on the folder WildfireSimulator.uproject once unzipped to immediately begin loading the project.
-5. 
+ 
  <img width="614" height="34" alt="image" src="https://github.com/user-attachments/assets/726c0189-c01f-4c6d-8157-6bb18d79c10c" />
  
-6. You may have to install plugins yourself if they are not on your system/UE version.
-7. Once the project is loaded, go into the WildfireSim folder in Content Browser, Load the level Marion
+5. You may have to install plugins yourself if they are not on your system/UE version.
+6. Once the project is loaded, go into the WildfireSim folder in Content Browser, Load the level Marion
 
    <img width="1380" height="463" alt="image" src="https://github.com/user-attachments/assets/120925b0-af51-4ed7-9958-992c7672a001" />
    
-8. Optionally click into the DroneInput folder then go into the Infrared folder, you will see a Render Target called RT_DroneThermal, double click it. This will allow you to see an infrared interpretation of what is going on.
+7. Optionally click into the DroneInput folder then go into the Infrared folder, you will see a Render Target called RT_DroneThermal, double click it. This will allow you to see an infrared interpretation of what is going on.
    
    <img width="444" height="420" alt="image" src="https://github.com/user-attachments/assets/875002f4-0ffc-4ccb-a01c-929ec0b4148d" />
    
-9. Allow a few seconds between run and logic beginning. This is because there is a delay to allow everything to load before the simulation starts.
-10. Read Below if you want to get a better understanding of logic 
+8. Allow a few seconds between run and logic beginning. This is because there is a delay to allow everything to load before the simulation starts.
+9. Read Below if you want to get a better understanding of logic 
 
 
 Unreal Engine Wildfire Simulation and Drone Data Capture
